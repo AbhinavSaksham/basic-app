@@ -16,7 +16,7 @@ class App extends StatelessWidget{
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Flutter Demo"
+          "Flutter Demo App[CG]"
         ),
         centerTitle: true,
       ),
